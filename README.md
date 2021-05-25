@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm a software developer in Québec, 🇨🇦 Canada.
 
-* 🔭 I'm currently working on [Switcheeroo](https://gitlab.com/NatoBoram/fabric-switcheroo)
+* 🔭 I'm currently working on [Eldarya Enhancements](https://gitlab.com/NatoBoram/eldarya-enhancements)
