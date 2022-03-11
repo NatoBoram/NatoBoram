@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 I'm a software developer in Québec, 🇨🇦 Canada.
 
-* 🔭 I'm currently working on [Eldarya Enhancements](https://gitlab.com/NatoBoram/eldarya-enhancements)
-* 🌱 I'm currently learning [Elixir](https://elixir-lang.org/)
-* 💬 Ask me about [IPFS](https://github.com/ipfs/go-ipfs/)
-* ⚡ Fun fact: My best projects are on [GitLab](https://gitlab.com/NatoBoram)
+- 🔭 I'm currently working on [Eldarya Enhancements](https://gitlab.com/NatoBoram/eldarya-enhancements)
+- 🌱 I'm currently learning [Elixir](https://elixir-lang.org/)
+- 💬 Ask me about [IPFS](https://github.com/ipfs/go-ipfs/)
+- ⚡ Fun fact: My best projects are on [GitLab](https://gitlab.com/NatoBoram)
 
 <div style="text-align: center">
   <a
@@ -40,7 +40,7 @@ I'm a software developer in Québec, 🇨🇦 Canada.
     <img
       align="center"
       alt="Most Used Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatoBoram&theme=nord&hide=lua,visual%20basic&layout=compact&langs_count=6&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatoBoram&theme=nord&hide=java,lua,visual%20basic&layout=compact&langs_count=6&hide_border=true"
     />
   </a>
 </div>
