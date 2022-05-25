@@ -40,7 +40,7 @@ I'm a software developer in Québec, 🇨🇦 Canada.
     <img
       align="center"
       alt="Most Used Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatoBoram&theme=nord&hide=java,lua,visual%20basic,xslt&layout=compact&langs_count=6&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatoBoram&theme=nord&hide=java,lua,visual%20basic,xslt&layout=compact&langs_count=6&hide_border=true&exclude_repo=svn.wordrider.net,winget-pkgs,CodeSnap,MagiskOnWSA"
     />
   </a>
 </div>
