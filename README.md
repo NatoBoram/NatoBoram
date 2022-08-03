@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 I'm a software developer in Québec, 🇨🇦 Canada.
 
 - 🔭 I'm currently working on [Eldarya Enhancements](https://gitlab.com/NatoBoram/eldarya-enhancements)
-- 🌱 I'm currently learning [Elixir](https://elixir-lang.org/)
-- 💬 Ask me about [IPFS](https://github.com/ipfs/go-ipfs/)
+- 🌱 I'm currently learning [Elixir](https://elixir-lang.org) and [Svelte](https://svelte.dev)
+- 💬 Ask me about [IPFS](https://github.com/ipfs/go-ipfs)
 - ⚡ Fun fact: My best projects are on [GitLab](https://gitlab.com/NatoBoram)
 
 <div style="text-align: center">
