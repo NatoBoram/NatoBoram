@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![CodeTrace](https://codetrace.com/widget/NatoBoram)](https://codetrace.com/users/NatoBoram)
+[![Stack Exchange](https://stackexchange.com/users/flair/6578017.png?theme=dark)](https://stackexchange.com/users/6578017)
 
 I'm a software developer in Québec, 🇨🇦 Canada.
 
 - 🔭 I'm currently working on [Eldarya Enhancements](https://gitlab.com/NatoBoram/eldarya-enhancements)
-- 🌱 I'm currently learning [Elixir](https://elixir-lang.org) and [Svelte](https://svelte.dev)
+- 🌱 I'm currently learning [Svelte](https://svelte.dev)
 - 💬 Ask me about [IPFS](https://github.com/ipfs/go-ipfs)
-- ⚡ Fun fact: My best projects are on [GitLab](https://gitlab.com/NatoBoram)
+- ⚡ Fun fact: I'm also on [GitLab](https://gitlab.com/NatoBoram)
 
 <div style="text-align: center">
   <a
