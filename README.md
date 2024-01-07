@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![NPM Downloads](https://img.shields.io/npm-stat/dy/natoboram?logo=npm)
+
 <!--
 **NatoBoram/NatoBoram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
