@@ -33,7 +33,7 @@ I'm a software developer in Québec, 🇨🇦 Canada.
     <img
       align="center"
       alt="Nato Boram's GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=NatoBoram&count_private=true&show_icons=true&theme=nord&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=NatoBoram&count_private=true&show_icons=true&theme=nord&hide_border=true&rank_icon=percentile"
     />
   </a>
   <a
