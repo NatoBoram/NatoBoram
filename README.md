@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 I'm a software developer in Québec, 🇨🇦 Canada.
 
-- 🔭 I'm currently working on [Leanish](https://github.com/NatoBoram/Leanish)
-- 🌱 I'm currently learning [Svelte](https://svelte.dev)
+- 🔭 I'm currently working on [BlackCompany](https://github.com/NatoBoram/BlackCompany)
+- 🌱 I'm currently learning [Docker](https://www.youtube.com/playlist?list=PLhXpdPiinNzm08YNXkQnGSjgSq1g1dDiI)
 - 💬 Ask me about [IPFS](https://github.com/ipfs/go-ipfs)
 - ⚡ Fun fact: I'm also on [GitLab](https://gitlab.com/NatoBoram)
 
