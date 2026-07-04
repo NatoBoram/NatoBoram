@@ -1,8 +1,32 @@
 {
-  "scripts": {
-    "format": "prettier -w ."
-  },
-  "devDependencies": {
-    "prettier": "latest"
-  }
+	"name": "@natoboram/natoboram",
+	"version": "0.0.0",
+	"homepage": "https://github.com/NatoBoram/NatoBoram",
+	"bugs": {
+		"url": "https://github.com/NatoBoram/NatoBoram/issues"
+	},
+	"license": "GPL-3.0-or-later",
+	"author": {
+		"name": "Nato Boram",
+		"url": "https://github.com/NatoBoram"
+	},
+	"funding": [
+		{
+			"type": "patreon",
+			"url": "https://www.patreon.com/NatoBoram"
+		},
+		{
+			"type": "individual",
+			"url": "https://paypal.me/NatoBoram/5"
+		}
+	],
+	"type": "module",
+	"repository": "github:NatoBoram/NatoBoram",
+	"scripts": {
+		"format": "prettier --write ."
+	},
+	"devDependencies": {
+		"prettier": "latest"
+	},
+	"private": true
 }

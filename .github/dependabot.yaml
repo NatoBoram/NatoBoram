@@ -1,0 +1,38 @@
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: monthly
+      timezone: America/Toronto
+    commit-message:
+      prefix: "⬆️ "
+    groups:
+      security:
+        applies-to: security-updates
+        patterns:
+          - "*"
+      patch:
+        update-types:
+          - patch
+      minor-development:
+        update-types:
+          - minor
+        dependency-type: development
+      minor-production:
+        update-types:
+          - minor
+        dependency-type: production
+      eslint:
+        patterns:
+          - "*eslint*"
+          - globals
+          - jiti
+      prettier:
+        patterns:
+          - "*prettier*"
+      typescript:
+        patterns:
+          - "*typescript*"
+          - tsx
+          - typedoc

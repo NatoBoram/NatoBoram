@@ -28,21 +28,21 @@ I'm a software developer in Québec, 🇨🇦 Canada.
 
 <div style="text-align: center">
   <a
-    href="https://github.com/anuraghazra/github-readme-stats#github-stats-card"
+    href="https://github.com/stats-organization/github-stats-extended#github-stats-card"
   >
     <img
       align="center"
       alt="Nato Boram's GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=NatoBoram&count_private=true&show_icons=true&theme=nord&hide_border=true&rank_icon=percentile"
+      src="https://github-stats-extended.vercel.app/api?username=NatoBoram&count_private=true&show_icons=true&theme=nord&hide_border=true&rank_icon=percentile"
     />
   </a>
   <a
-    href="https://github.com/anuraghazra/github-readme-stats#top-languages-card"
+    href="https://github.com/stats-organization/github-stats-extended#top-languages-card"
   >
     <img
       align="center"
       alt="Most Used Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatoBoram&theme=nord&hide=java,lua,visual%20basic,xslt&layout=compact&langs_count=6&hide_border=true&exclude_repo=svn.wordrider.net,winget-pkgs,CodeSnap,MagiskOnWSA"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=NatoBoram&theme=nord&hide=java,lua,visual%20basic,xslt&layout=compact&langs_count=6&hide_border=true&exclude_repo=svn.wordrider.net,winget-pkgs,CodeSnap,MagiskOnWSA"
     />
   </a>
 </div>
